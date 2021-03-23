@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 原符号 < <= > >= & ' " -->
+<!-- 替换符号 &lt; &lt;= &gt; &gt;= &amp; &apos; &quot; -->
+
+<script name="">
+	<var-string name="myglname" value="**韓松**" />
+	<var-string name="odbc" value="c:\windows\ODBC.INI" />
+	<var-int name="ten" value="10" />
+
+	<function name="main" parameters="" result="$ret">
+<!-- 		<exec cmd="cmd.exe /c net use k: \\192.168.3.16\c$\temp nmAmtf9995 /user:hds\sohan" /> -->
+		<exec cmd="notepad.exe"/>
+	</function>
+
+</script>
